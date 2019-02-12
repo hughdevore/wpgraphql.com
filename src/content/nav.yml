@@ -24,6 +24,8 @@
       title: Users
     - id: comments
       title: Comments
+    - id: menus
+      title: Menus
     - id: settings
       title: Settings
     - id: plugins
